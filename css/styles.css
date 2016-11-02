@@ -51,6 +51,9 @@ blockquote {
     font-weight: 600
 }
 
+.test{
+  color: #ffffff;
+}
 .jumbotron h1 {
     font-family: "Source Sans Light";
     font-size: 34px;
