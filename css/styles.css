@@ -45,8 +45,9 @@ blockquote {
     margin-top: -20px;
     padding-bottom: 30px;
     padding-top: 30px;
-    background-color: #01344e;
-    color: #009CDF
+    background-color: #942121;
+    color: #ffffff;
+    font-weight: 600
 }
 
 .jumbotron h1 {
