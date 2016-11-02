@@ -36,7 +36,8 @@ blockquote {
 .btn-lg {
     border-radius: 4px;
     font-family: "Source Sans Light";
-    background-color: #009CDF;
+    background-color: #ffffff;
+    color: ##A10E17;
     font-size: 20px;
     /*font-weight: 300;*/
 }
@@ -45,7 +46,7 @@ blockquote {
     margin-top: -20px;
     padding-bottom: 30px;
     padding-top: 30px;
-    background-color: #942121;
+    background-color: #A10E17;
     color: #ffffff;
     font-weight: 600
 }
@@ -123,4 +124,9 @@ h2 {
     padding-bottom: 12px;
     margin-bottom: 20px;
     margin-top: 40px;
+}
+
+.btn-primary:hover{
+    background-color: #ffffff;
+    color: #A10E17;
 }
